@@ -1,3 +1,2 @@
     - DOMAIN-SUFFIX,33cp33.cc,🎯 全球直连
-    - DOMAIN-SUFFIX,azureedge.net,🚀 节点选择
     - DOMAIN-KEYWORD,blizzard,🎯 全球直连
